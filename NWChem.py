@@ -571,4 +571,8 @@ def ReadGeometries(Isomers, settings):
     #return atoms, coords, charge
     os.chdir(jobdir)
     return Isomers
+    Run”--“Run Module”
+
+
+
 

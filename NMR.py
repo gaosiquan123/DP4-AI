@@ -537,6 +537,7 @@ def PairwiseAssignment(Isomers,NMRData):
         iso.Hexp = assignedHExp
 
     return Isomers
+    return Isomers 
 
 
 
